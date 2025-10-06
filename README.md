@@ -32,6 +32,9 @@ El objetivo del proyecto es:
 
 The [`docs`](./docs) folder contains detailed documentation of different AWS setup and configuration processes:
 
+- **Projects**
+  - [AWS S3 & Identity Center Setup](./docs/05_aws_s3_identity_center.md)
+
 - [AWS Account Setup and Organization](./docs/01_aws_cuenta.md)  
 - [AWS CloudTrail Configuration](./docs/02_cloudtrail.md)  
 - [AWS Billing Alerts and Cost Explorer](./docs/03_billing_alerts.md)  
@@ -44,6 +47,9 @@ The [`docs`](./docs) folder contains detailed documentation of different AWS set
 ### 🇪🇸 **Español**
 
 La carpeta [`docs`](./docs) contiene documentación detallada de distintos procesos de configuración en AWS:
+
+- **Proyectos**
+  - [AWS S3 & Identity Center Setup](./docs/05_aws_s3_identity_center.md)
 
 - [Creación y organización de la cuenta AWS](./docs/01_aws_cuenta.md)  
 - [Configuración de AWS CloudTrail](./docs/02_cloudtrail.md)  
