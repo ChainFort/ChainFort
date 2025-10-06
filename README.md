@@ -28,18 +28,26 @@ El objetivo del proyecto es:
 
 ## Documentation / Documentación
 
-The [`docs`](./docs) folder contains detailed documentation of different processes and configurations:
+### 🇬🇧 **English**
 
-- [AWS Billing Alerts Setup](./docs/aws_billing_alerts.md)  
-- [Secure Visual Studio Code Setup](./docs/vscode_secure_setup.md)  
-- [CI/CD with GitHub Actions Guide](./docs/ci_cd_guide.md)  
-- Other documents related to security, infrastructure, and automation.
+The [`docs`](./docs) folder contains detailed documentation of different AWS setup and configuration processes:
 
-La carpeta [`docs`](./docs) contiene documentación detallada de distintos procesos y configuraciones:
+- [AWS Account Setup and Organization](./docs/01_aws_cuenta.md)  
+- [AWS CloudTrail Configuration](./docs/02_cloudtrail.md)  
+- [AWS Billing Alerts and Cost Explorer](./docs/03_billing_alerts.md)  
+- [Git, VS Code, and GitHub Secure Setup](./docs/04_git_vscode_github.md)  
+- Additional documents related to security, infrastructure, and automation.
 
-- [Configuración de alertas de billing en AWS](./docs/aws_billing_alerts.md)  
-- [Setup seguro de Visual Studio Code](./docs/vscode_secure_setup.md)  
-- [Guía de CI/CD con GitHub Actions](./docs/ci_cd_guide.md)  
+---
+
+### 🇪🇸 **Español**
+
+La carpeta [`docs`](./docs) contiene documentación detallada de distintos procesos de configuración en AWS:
+
+- [Creación y organización de la cuenta AWS](./docs/01_aws_cuenta.md)  
+- [Configuración de AWS CloudTrail](./docs/02_cloudtrail.md)  
+- [Alertas de billing y Cost Explorer](./docs/03_billing_alerts.md)  
+- [Configuración segura de Git, VS Code y GitHub](./docs/04_git_vscode_github.md)  
 - Otros documentos relacionados con seguridad, infraestructura y automatización.
 
 > Each document is designed to serve as a direct and applicable guide for your own projects.  
