@@ -37,6 +37,7 @@ The [`docs`](./docs) folder contains detailed documentation of different AWS set
 - [AWS Billing Alerts and Cost Explorer](./docs/03_billing_alerts.md)  
 - [Git, VS Code, and GitHub Secure Setup](./docs/04_git_vscode_github.md)  
 - Additional documents related to security, infrastructure, and automation.
+> Each document is designed to serve as a direct and applicable guide for your own projects.  
 
 ---
 
@@ -50,7 +51,7 @@ La carpeta [`docs`](./docs) contiene documentación detallada de distintos proce
 - [Configuración segura de Git, VS Code y GitHub](./docs/04_git_vscode_github.md)  
 - Otros documentos relacionados con seguridad, infraestructura y automatización.
 
-> Each document is designed to serve as a direct and applicable guide for your own projects.  
+
 > Cada documento está diseñado para servir como guía directa y aplicable en proyectos propios.
 
 ---
