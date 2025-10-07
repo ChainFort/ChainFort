@@ -1,0 +1,36 @@
+```
+# Archivos de estado (nunca deben subirse)
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Archivos de configuración de credenciales
+*.tfvars
+*.tfvars.json
+terraform.tfvars
+secrets.auto.tfvars
+
+# Archivos de respaldo y caché locales
+*.backup
+*.bak
+*.tmp
+*.swp
+*.swo
+.DS_Store
+
+# Carpetas locales de Terraform
+.terraform/
+.terraform.lock.hcl
+
+# Archivos de salida o logs
+*.log
+
+# Archivos de sistema
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Configuración local de VS Codes2
+.vscode/
+```
